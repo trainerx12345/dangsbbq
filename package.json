@@ -1,0 +1,23 @@
+{
+  "name": "dangsbbq",
+  "version": "1.0.0",
+  "description": "Dang's BBQ & Inihaws - Static website with Vercel Web Analytics",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "restaurant",
+    "bbq",
+    "baguio"
+  ],
+  "author": "Dang's BBQ & Inihaws",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@vercel/analytics": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
